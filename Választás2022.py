@@ -8,7 +8,7 @@ def sqlquery(q):
     return sqldf(q, globals())
 
 matplot_init()
-#tbl=pd.read_csv(r"C:\Users\Zsolt\Downloads\DATA_Választási_közvélemény-kutatások_Magyarországon.xlsx - Adatok.csv",sep=',',parse_dates=True)
+#tbl=pd.read_csv(r"DATA_Választási_közvélemény-kutatások_Magyarországon.xlsx - Adatok.csv",sep=',',parse_dates=True)
 
 
 
